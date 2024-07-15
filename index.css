@@ -62,7 +62,7 @@
     gap: 20px;
 }
 #footer-pages div {
-    font-family: 'inter';
+   font-family:  'Inter', sans-serif;
     font-size: 16px;
     line-height: 19.36px;
     text-align: left;
@@ -72,7 +72,7 @@
   }
 
 #contact div {
-    font-family: 'inter';
+    font-family:  'Inter', sans-serif;
     font-size: 16px;
     line-height: 19.36px;
     text-align: left;
@@ -92,7 +92,7 @@
     gap: 12px;
 }
 #about div {
-    font-family: 'inter';
+   font-family:  'Inter', sans-serif;
     font-size: 16px;
     line-height: 19.36px;
     text-align: left;
@@ -100,7 +100,7 @@
     padding: 4px 0px;
 }
 #blog div {
-    font-family: 'inter';
+   font-family:  'Inter', sans-serif;
     font-size: 16px;
     line-height: 19.36px;
     text-align: left;
@@ -108,7 +108,7 @@
     padding: 4px 0px;
 }
 #terms div {
-    font-family: 'inter';
+   font-family:  'Inter', sans-serif;
     font-size: 16px;
     line-height: 19.36px;
     text-align: left;
